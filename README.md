@@ -11,4 +11,7 @@ Permite criar uma cópia do projeto que está no GitHub no seu computador local,
 
 * Criação de branch :
 Cria uma ramificação para desenvolver alterações sem modificar a versão principal, mantendo a organização e a estabilidade do projeto.
+![Criação de branch] <img width="866" height="504" alt="image" src="https://github.com/user-attachments/assets/bf0c1e41-8aa6-4952-a2b8-f3ea89a69148" />
+
+* Registro de commits :
 
