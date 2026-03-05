@@ -14,4 +14,7 @@ Cria uma ramificação para desenvolver alterações sem modificar a versão pri
 ![Criação de branch] <img width="866" height="504" alt="image" src="https://github.com/user-attachments/assets/bf0c1e41-8aa6-4952-a2b8-f3ea89a69148" />
 
 * Registro de commits :
+Permite registrar alterações feitas no arquivo até o momento.
+![Registro de commits] <img width="1078" height="657" alt="image" src="https://github.com/user-attachments/assets/ec560b38-2c04-4179-963c-34f413a9782e" />
 
+* Envio das alterações (push):
