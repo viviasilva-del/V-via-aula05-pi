@@ -44,7 +44,8 @@ Organiza o desenvolvimento do projeto com os recursos do repositório.Integra is
 
 * Abertura de Pull Request:
 Permite solicitar a revisão e a integração das alterações feitas em uma branch na branch principal do projeto.
-![Abertura de Pull Request]
+![Abertura de Pull Request] <img width="1336" height="736" alt="image" src="https://github.com/user-attachments/assets/49adaf44-6085-40dd-a010-9c682b218459" />
+
 
 * Realização de Merge:
 Integra as alterações de uma branch na branch principal do projeto.
