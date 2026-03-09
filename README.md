@@ -34,7 +34,8 @@ Registra tarefa, problema ou melhoria no repositório e acompanha o andamento da
 
 * Organização com Milestone:
 Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa ou versão para acompanhar o progresso do projeto.
-![Organização com Milestone] 
+![Organização com Milestone] <img width="933" height="595" alt="image" src="https://github.com/user-attachments/assets/1cba42f2-118e-4283-82e4-0e9c22960b92" />
+
 
 * Gerenciamento com Project:
 Organiza o desenvolvimento do projeto com os recursos do repositório.Integra issues, milestones e quadros (Projects) para acompanhar as atividades.
