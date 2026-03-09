@@ -19,7 +19,8 @@ Permite registrar alterações feitas no arquivo até o momento.
 
 * Envio das alterações (push):
 Envie as alterações do repositório local para o repositório remoto no GitHub para atualizar o projeto online e compartilhar as mudanças com a equipe.
-![push]
+![push] <img width="908" height="110" alt="image" src="https://github.com/user-attachments/assets/5f770607-d623-4c06-9543-6d7dd7128a11" />
+
 
 * Atualização do repositório local (pull):
 Permite trazer do repositório as atualizações mais recentes e integra as alterações feitas por outras pessoas.
