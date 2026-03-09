@@ -24,11 +24,12 @@ Envie as alterações do repositório local para o repositório remoto no GitHub
 
 * Atualização do repositório local (pull):
 Permite trazer do repositório as atualizações mais recentes e integra as alterações feitas por outras pessoas.
-![pull]
+![pull] <img width="917" height="250" alt="image" src="https://github.com/user-attachments/assets/ecd2b8d9-095f-4add-b695-e8a3e58b0206" />
+
 
 * Criação de Issues:
 Registra tarefa, problema ou melhoria no repositório e acompanha o andamento das atividades.
-![Criação de Issues]
+![Criação de Issues] 
 
 * Organização com Milestone:
 Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa ou versão para acompanhar o progresso do projeto.
