@@ -1,4 +1,4 @@
-# V-via-aula05-pi
+# Vivia-aula05-pi
 # Atividade Vívia Fernandes - 3° info #
 
 * Criação do repositório :
