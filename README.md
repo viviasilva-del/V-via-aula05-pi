@@ -29,11 +29,12 @@ Permite trazer do repositório as atualizações mais recentes e integra as alte
 
 * Criação de Issues:
 Registra tarefa, problema ou melhoria no repositório e acompanha o andamento das atividades.
-![Criação de Issues] 
+![Criação de Issues] <img width="1412" height="532" alt="image" src="https://github.com/user-attachments/assets/148b048b-bd66-4d89-9452-f56e3bf6b44b" />
+
 
 * Organização com Milestone:
 Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa ou versão para acompanhar o progresso do projeto.
-![Organização com Milestone]
+![Organização com Milestone] 
 
 * Gerenciamento com Project:
 Organiza o desenvolvimento do projeto com os recursos do repositório.Integra issues, milestones e quadros (Projects) para acompanhar as atividades.
