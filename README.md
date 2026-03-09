@@ -37,7 +37,7 @@ Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa
 Organiza o desenvolvimento do projeto com os recursos do repositório.Integra issues, milestones e quadros (Projects) para acompanhar as atividades.
 ![Gerenciamento com Project]
 
-*Abertura de Pull Request:
+* Abertura de Pull Request:
 Permite solicitar a revisão e a integração das alterações feitas em uma branch na branch principal do projeto.
 ![Abertura de Pull Request]
 
