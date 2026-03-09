@@ -34,4 +34,6 @@ Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa
 ![Organização com Milestone]
 
 * Gerenciamento com Project:
+Organiza o desenvolvimento do projeto com os recursos do repositório.Integra issues, milestones e quadros (Projects) para acompanhar as atividades.
+
 
