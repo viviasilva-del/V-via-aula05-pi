@@ -18,3 +18,20 @@ Permite registrar alterações feitas no arquivo até o momento.
 ![Registro de commits] <img width="1078" height="657" alt="image" src="https://github.com/user-attachments/assets/ec560b38-2c04-4179-963c-34f413a9782e" />
 
 * Envio das alterações (push):
+Envie as alterações do repositório local para o repositório remoto no GitHub para atualizar o projeto online e compartilhar as mudanças com a equipe.
+![push]
+
+* Atualização do repositório local (pull):
+Permite trazer do repositório as atualizações mais recentes e integra as alterações feitas por outras pessoas.
+![pull]
+
+* Criação de Issues:
+Registra tarefa, problema ou melhoria no repositório e acompanha o andamento das atividades.
+![Criação de Issues]
+
+* Organização com Milestone:
+Cria uma milestone para agrupar issues relacionadas e organize tarefas por etapa ou versão para acompanhar o progresso do projeto.
+![Organização com Milestone]
+
+* Gerenciamento com Project:
+
